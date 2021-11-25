@@ -1,0 +1,15 @@
+http.sslcainfo=E:/installed/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+credential.helper=manager
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+user.name=AliRiahi
+user.email=alivezvar7@gmail.com
